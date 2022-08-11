@@ -1,1 +1,1 @@
-web: gunicorn richestmen.wsgi
+web: gunicorn nattodo.wsgi
